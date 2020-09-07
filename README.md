@@ -1,2 +1,4 @@
-# oop_lab1_task2
-hhhhjmnhbgf
+# oop_lab1_task1
+Ковтик Анастасия 
+2 курс
+12 группа
